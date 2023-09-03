@@ -1,0 +1,12 @@
+{
+  "Author":"Dudekahedron",
+  "Brand":"AeroBeam",
+  "Country":"United States",
+  "Name":"Paper Airplane",
+  "Type":"Plane",
+  "Years":{
+    "min":2023
+    "max":2024,
+  },
+  "default_pc":"default",
+}

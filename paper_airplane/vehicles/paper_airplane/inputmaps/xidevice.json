@@ -1,0 +1,29 @@
+{
+"bindings" :   [
+    {
+    "control"           : "thumbly"           , 
+    "action"            : "pitch"         
+    }, 
+    {
+    "control"           : "thumblx"           , 
+    "action"            : "roll"          
+    }, 
+    {
+    "control"           : "btn_a"             , 
+    "action"            : "launch" 
+    }, 
+    {
+    "control"           : "triggerr"          , 
+    "action"            : "ppowerAxis"      
+    }, 
+    {
+    "control"           : "triggerl"             , 
+    "action"            : "brakeAxis" 
+    }, 
+  ], 
+"name"              : "XBox Controller 1" , 
+"version"           : 1                   , 
+"devicetype"        : "xinput"            , 
+"vidpid"            : "XIDevice"          , 
+"guid"              : "xinput_device_XIDevice"
+}, 
